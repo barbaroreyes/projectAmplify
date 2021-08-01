@@ -93,7 +93,7 @@ nav ul {
 /* Hero Section */
 
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url(./assets/hero-background.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url('https://bookstorev24fcfeee7f99e4c68b1a0f0ff33bc38b330540-dev.s3.us-east-2.amazonaws.com/public/images/dc84aa09-32cb-4ffa-907f-de3d5c34d9f0El+Especial+del+Dragon.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
