@@ -88,7 +88,6 @@ export const listBooks = /* GraphQL */ `
         image
         author
         featured
-        price
         createdAt
         updatedAt
       }
